@@ -1,0 +1,122 @@
+{
+    "menu": [
+        {
+            "id": "11",
+            "gambar": "meat-lover.jpg",
+            "kategori": "pizza",
+            "varian": [
+                {
+                    "id": "1",
+                    "nama": "Meat Lover",
+                    "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
+                    "harga": 49500
+                },
+                {
+                    "id": "2",
+                    "nama": "Super Supreme",
+                    "deskripsi": "Daging ayam dan sapi asap, daging sapi cincang, burger sapi, jamur, paprika merah dan paprika hijau.",
+                    "harga": 38500
+                },
+                {
+                    "id": "3",
+                    "nama": "Tuna Melt",
+                    "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
+                    "harga": 27500
+                },
+                {
+                    "id": "4",
+                    "nama": "American Favourite",
+                    "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+                    "harga": 16500
+                }
+            ]
+        },
+        {
+            "id": "55",
+            "kategori": "pasta",
+            "gambar": "beef-spaghetti.jpg",
+            "varian": [
+                {
+                    "id": "5",
+                    "nama": "Beef Spaghetti",
+                    "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+                    "harga": 43000
+                },
+                {
+                    "id": "6",
+                    "nama": "Beef Lasagna",
+                    "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
+                    "harga": 38000
+                },
+                {
+                    "id": "7",
+                    "nama": "Creamy Beef Fettuccine",
+                    "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
+                    "harga": 23000
+                }
+            ]
+        },
+        {
+            "id": "88",
+            "kategori": "nasi",
+            "gambar": "meatballs-beef-mushroom.jpg",
+            "varian": [
+                {
+                    "id": "8",
+                    "nama": "Meatballs Beef Mushroom",
+                    "deskripsi": "Bola daging sapi dengan saus daging sapi cincang dan jamur.",
+                    "harga": 40000
+                },
+                {
+                    "id": "9",
+                    "nama": "Black Pepper Chicken",
+                    "deskripsi": "Ayam dengan saus lada hitam.",
+                    "harga": 30000
+                },
+                {
+                    "id": "10",
+                    "nama": "Oriental Chicken",
+                    "deskripsi": "Daging ayam berpadu dengan saus oriental.",
+                    "harga": 20000
+                }
+            ]
+        },
+        {
+            "id": "111",
+            "kategori": "minuman",
+            "gambar": "choco-mint.jpg",
+            "varian": [
+                {
+                    "id": "11",
+                    "nama": "Choco Mint",
+                    "deskripsi": "",
+                    "harga": 24000
+                },
+                {
+                    "id": "12",
+                    "nama": "Toffee Coffee",
+                    "deskripsi": "",
+                    "harga": 14000
+                },
+                {
+                    "id": "13",
+                    "nama": "Green Tea Shake",
+                    "deskripsi": "",
+                    "harga": 34000
+                },
+                {
+                    "id": "14",
+                    "nama": "Strawberry Milkshake",
+                    "deskripsi": "",
+                    "harga": 44000
+                },
+                {
+                    "id": "15",
+                    "nama": "Chocolate Milkshake",
+                    "deskripsi": "",
+                    "harga": 54000
+                }
+            ]
+        }
+    ]
+}
